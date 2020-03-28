@@ -1,0 +1,85 @@
+{
+  "data": {
+    "email": "rodomar@outlook.com",
+      "username": "ramrodo",
+        "certificates": [
+
+        ],
+          "articles": [
+
+          ],
+            "courses": [
+              {
+                "title": "Curso para crear una API con NodeJS",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/node-bdd"
+              },
+              {
+                "title": "Curso de Desarrollo Tiendas en línea",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/desarrollo-ecommerce"
+              },
+              {
+                "title": "Curso para manejar Google Analytics",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/google-analytics"
+              },
+              {
+                "title": "Curso de Git Gratis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/git"
+              },
+              {
+                "title": "Curso gratuito de Django",
+                "progress": "8.0",
+                "url": "http://codigofacilito.com/courses/django"
+              },
+              {
+                "title": "Curso de NodeJS Gratis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/nodejs"
+              },
+              {
+                "title": "Curso de Ruby on Rails 4 Gratis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/rails"
+              },
+              {
+                "title": "Curso de Python 3 gratis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/python3"
+              },
+              {
+                "title": "Curso de javaScript Gratis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/javascript"
+              },
+              {
+                "title": "Curso de AngularJS Gratis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/angularjs"
+              },
+              {
+                "title": "Curso de Ruby Básico Gratis",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/Ruby"
+              },
+              {
+                "title": "Curso de Ruby on Rails 3 Gratuito",
+                "progress": "0.0",
+                "url": "http://codigofacilito.com/courses/rails3"
+              },
+              {
+                "title": "Crea un sitio personal con Gatsby",
+                "progress": "53.0",
+                "url": "http://codigofacilito.com/courses/sitio-persional-gatsby"
+              }
+            ],
+              "finished_courses": [
+
+              ]
+  },
+  "errors": [
+
+  ]
+}

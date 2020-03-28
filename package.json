@@ -1,0 +1,37 @@
+{
+  "name": "personal-website-with-gatsby",
+  "version": "1.0.0",
+  "description": "Personal Website with Gatsby",
+  "main": "index.js",
+  "dependencies": {
+    "gatsby": "^2.19.45",
+    "gatsby-plugin-postcss": "^2.2.1",
+    "gatsby-source-filesystem": "^2.2.2",
+    "gatsby-transformer-json": "^2.3.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "tailwindcss": "^1.2.0"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramrodo/personal-website-with-gatsby.git"
+  },
+  "author": "Rodolfo Martínez Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramrodo/personal-website-with-gatsby/issues"
+  },
+  "homepage": "https://github.com/ramrodo/personal-website-with-gatsby#readme"
+}
