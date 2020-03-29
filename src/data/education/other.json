@@ -1,0 +1,11 @@
+{
+  "slug": "other",
+  "title": "Other Education",
+  "description": "Certifications",
+  "items": [
+    {
+      "name": "SUSE Certified Administrator",
+      "url": "https://training.suse.com/certification/sca-linux/"
+    }
+  ]
+}

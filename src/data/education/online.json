@@ -1,0 +1,23 @@
+{
+  "slug": "online",
+  "title": "Online Education",
+  "description": "Online Courses",
+  "items": [
+    {
+      "name": "Create a personal website with Gatsby",
+      "url": "https://codigofacilito.com/cursos/sitio-persional-gatsby"
+    },
+    {
+      "name": "JavaScript Course",
+      "url": "https://www.udemy.com/course/javascript-de-cero-hasta-los-detalles/"
+    },
+    {
+      "name": "Git and GitHub Course",
+      "url": "https://www.udemy.com/course/git-y-github-completo-desde-cero"
+    },
+    {
+      "name": "Python 3 Course",
+      "url": "https://www.udemy.com/course/python-curso-completo/"
+    }
+  ]
+}

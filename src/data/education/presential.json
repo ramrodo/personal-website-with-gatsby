@@ -1,0 +1,12 @@
+{
+  "slug": "presential",
+  "title": "Education",
+  "description": "Traditional education and Degrees",
+  "items": [
+    {
+      "name": "Escuela Superior de Cómputo (Instituto Politécnico Nacional)",
+      "degree": "BSc in Computer Engineering, Class of 2011",
+      "score": "83"
+    }
+  ]
+}
